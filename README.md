@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating windows applications with online database using mysql.
 - 🌱 I’m currently learning at the basics on how to host mysql to online server
 - 💞️ I’m looking to collaborate on creating visual basic project with online database.
-- 📫 How to reach me ...
+
 
 <!---
 ToLearnHere/ToLearnHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
